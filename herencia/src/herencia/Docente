@@ -1,0 +1,17 @@
+
+package herencia;
+
+
+public class Persona 
+{
+    public Persona (){
+        
+    }
+    
+        public void nombrecompleto () {
+        System.out.println("Alessandro Rojas");
+    }
+        public void codigo(){
+        System.out.println("4");    
+        }
+}
